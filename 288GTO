@@ -1,0 +1,112 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>288GTO</title>
+
+    <style>
+
+
+        #id {
+            background: url(https://i.pinimg.com/originals/5e/5a/69/5e5a69a4f4ef1e464f232ca336b9179d.jpg);
+            background-position: 100%;
+            background-size: auto;
+            background-repeat:no-repeat;
+            background-attachment: fixed;
+        }
+        
+
+        
+        p {
+            
+            font-style: normal;
+            color: #ffffff;
+            font-family:-apple-system, BlinkMacSystemFont,'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+             'Open Sans', 'Helvetica Neue', sans-serif;
+
+        }
+        
+        p[foo] {
+            font-style: normal;
+            color: #ffffff;
+            font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+             'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        
+        p[foo="bar"] {
+            font-style: normal;
+            color: #ffffff;
+            font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+             'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        div{ 
+            
+            color: whitesmoke;
+            font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+             'Open Sans', 'Helvetica Neue', sans-serif;
+             width: max-content;
+        }
+
+
+
+        h1 {
+            font-style:normal;
+            color: rgb(245, 209, 3);
+            display: flex;
+            justify-content: center;
+            font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+             'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="id">
+        <h1>Ferrari 288 GTO <br>
+        O carro de corrida que nunca correu</h1>
+
+        <p>Em 1984 a Ferrari preciava voltar as pistas de corrida depois de um iato de <br>
+        de quase 20 anos fora das competições. 
+        Com isso desenvolvel um dos carros mais emblemáticos dos anos 80 <br><b>A Ferrari 288GTO</b>  </p>
+            <br>
+        <p foo> Para que o carro pudesse se homologado, a FISA (Fédération Internationale du Sport Automibile), 
+            órgão regulador da FIA, exigia uma produção mínima de 200 unidades.<br>
+            Assim o carro seria liberado para usar a sigla GTO (Gran Turismo Omologato).<br><br>
+        <img src="https://th.bing.com/th/id/R.98f47f4af8245a029af3bbfb6e327e5a?rik=2IE7O19tItQZPA&pid=ImgRaw&r=0.jpg"> <br><br>
+        A ferrari produziu 277 unidades do modelo, que foi considerado o 2º carro da década de 80 <br>
+        ficando atras do icônico Porsche 959.<br> <br>
+       
+     <img src ="https://th.bing.com/th/id/R.a2cbbeb14186c5b8d3f6f948f090f382?rik=lhkIGf2M7jb4Bg&riu=http%3a%2f%2ftest.bingosportsworld.com%2fimages%2ftopics_img%2fMAS_92763.jpg&ehk=UTqG22phM0fUdHZZNyx5H3wdrT7ypy%2fcimnhFKilvcY%3d&risl=&pid=ImgRaw&r=0.jpg">
+        
+        <br>
+        Para a época o carro era um exagero, com o chassi em fibra de carbono e alumínio<br>
+        Seu motor V8 biturbo geravam 400 hp e 50,6 kgfm de torque. Tudo isso num carro de 1.160 kilos. <br>
+        Esse motor de 2.8 litros levalam o carro de 0-100 km/h em menos de 5 segundos e e a velocidade máxima de 305 km/h.<br>
+        <img src="https://i.pinimg.com/736x/02/40/94/024094a90c8e7cfd3be4ad4e703b2662.jpg"> 
+    </P>
+            <br>
+            <br>
+        <p foo="bar"> <h1>Por que não correu?</h1>
+        O 288GTO não pode brilhar nas pistas, infelizmente. <br>
+        Após o terrivel acidente do piloto Joaquim Santos com o Ford RS200, que resultou na morte de 3 espectadores e deixou mais de 30 feridos, o Grupo B foi extinto.
+        
+        <br>
+
+        Com isso, do projeto do carro nasceu a "Ferrari 288 GTO Evolizione"<br>
+        A 288 Evoluzione serviu de base para o projeto da Ferrari F40, que para quem vos escreve, é o carro mais icônico dos anos 90.<br>
+            <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=570x10000:format=jpg/path/s5aacb1a2f6f7b181/image/i46b3ccbac18ba96d/version/1278949674/ferrari-288-gto-evoluzione-by-alidarnic.jpg">
+            <br>
+            <br>
+            <img src="https://th.bing.com/th/id/R.7c9b142f5ac576b05687df23191cc6ba?rik=QuxHczDiMLirOg&pid=ImgRaw&r=0.jpg">
+
+  
+             
+            </div>
+   
+
+
+    </div>
+</body>
+
+</html>
